@@ -493,7 +493,7 @@ public class MainActivity {
 
 <img src="https://user-images.githubusercontent.com/48902047/146637532-786b2921-7319-4911-8910-5502bc10c462.png"></img>
 
-위에 그림은 단방향 바인딩 순서 입니다. 반대 아래 그림은 양방향 그림입니다.
+위에 그림은 단방향 바인딩 순서 입니다. 아래 그림은 양방향 그림입니다.
 
 <img src="https://user-images.githubusercontent.com/48902047/146637595-a03be281-b088-46c7-931d-1a6abefafb37.png"></img>
 
