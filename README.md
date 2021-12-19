@@ -319,7 +319,7 @@ SampleModel을 바꿔봅시다.
 ```kotlin
 public static class SampleModel extends BaseObservalbe {
     //private String title; 변경 전
-    public final ObservableFiedl<String> title; //변경 후
+    public final ObservableField<String> title; //변경 후
     public SampleMode(String title) {
         this.title = new ObservableField<>(title);
     }
