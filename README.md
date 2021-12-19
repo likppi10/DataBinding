@@ -14,6 +14,7 @@ XML(Screen) <- Java/Kotlin(Data/Logic) 인 부분을 ***Binding.java가 연결�
 ## DataBinding vs ViewBinding
 
 <img src="https://user-images.githubusercontent.com/48902047/142985022-78607cc8-f8ef-4efc-a57a-18c1cf385d81.png"></img>
+
 그림에서 알 수 있듯이, DataBinding은 ViewBinding의 역할도 할 뿐만 아니라
 
 추가로 동적 UI 콘텐츠 선언, 양방향 데이터 결합도 지원합니다.
