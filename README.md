@@ -487,9 +487,13 @@ public class MainActivity {
     </LinearLayout>
 </layout>
 ```
+
 양방향과 단반향의 차이는 아래와 같습니다.
+
 양방향 바인딩 : @={model.title}
+
 단방향 바인딩 : @{model.title}
+
 양방향을 사용했다고 해서 Activity의 코드가 바뀌지 않습니다.
 
 <img src="https://user-images.githubusercontent.com/48902047/146637532-786b2921-7319-4911-8910-5502bc10c462.png"></img>
